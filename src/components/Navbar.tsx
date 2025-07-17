@@ -26,7 +26,6 @@ import { ModeToggle } from "./mode-toggle";
 //Importacion de los componentes de shadcn
 import {
   NavigationMenu,
- 
   NavigationMenuList,
 } from "@/components/ui/navigation-menu";
 
