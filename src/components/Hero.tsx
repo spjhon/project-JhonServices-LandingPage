@@ -4,7 +4,7 @@ import { ArrowUpRight, CirclePlay } from "lucide-react";
 
 const Hero = () => {
   return (
-    <div className="container min-h-screen flex items-center justify-center overflow-hidden">
+    <div className="container flex items-center justify-center overflow-hidden">
       <div className="max-w-screen-xl w-full mx-auto grid lg:grid-cols-2 gap-12 px-6 py-12 lg:py-0">
         <div className="my-auto">
           <Badge className="rounded-full">
